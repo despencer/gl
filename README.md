@@ -1,2 +1,2 @@
 # gl
-General ledger and accounting
+General ledger, accounting and reporting scripts.
